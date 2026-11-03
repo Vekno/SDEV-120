@@ -1,0 +1,11 @@
+Five Rules of Pseudocode:
+
+1. Statements should be language independent and written in simple english.
+
+2. Each statement is on a separate line
+
+3. Indent to show heirarchy
+
+4. Capitalize initial keywords
+
+5. No multiline structures
